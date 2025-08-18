@@ -1,0 +1,11 @@
+out/
+*.class
+*.iml
+.idea/
+lib/*.zip
+*.log
+target/
+bin/
+/.DS_Store
+
+
