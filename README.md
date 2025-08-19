@@ -99,9 +99,6 @@ java -cp "out:lib/*" bank.management.system.Login
 - **Mini Statement** shows all entries from `transactions`, ordered by date
 - **Fast Cash** logs to both `bank` and `transactions` for complete history
 
-### 📜 License
-MIT (or your preferred license)
-
 ---
 
 ## 📞 **Contact**
