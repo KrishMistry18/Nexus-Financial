@@ -101,3 +101,15 @@ java -cp "out:lib/*" bank.management.system.Login
 
 ### 📜 License
 MIT (or your preferred license)
+
+---
+
+## 📞 **Contact**
+
+- Project: <https://github.com/KrishMistry18/EduCycle>
+- Email: <mistrykrish2005@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/krish-mistry-0290522b7>
+
+---
+
+**Built with ❤️ by Krish Mistry** 
